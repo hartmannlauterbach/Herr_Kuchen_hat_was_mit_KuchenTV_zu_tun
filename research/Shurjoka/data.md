@@ -26,7 +26,18 @@
 ## Instagram
 - **Handle**: @shurjoka
 - **Real Name**: Pia Scholz
+- **Age**: 24
+- **Pronouns**: she/her
+- **Location**: Spandau
 - **Followers**: 51K
 - **Following**: 1,929
 - **Posts**: 100
 - **Bio**: Known as 'Kibaundjoy Crazy Horse Lady', passion for horses, gaming, and adventure.
+
+## Additional Platforms
+- **Twitch**: @shurjoka
+- **Twitter**: @Shurjoka, URL https://twitter.com/Shurjoka
+- **Linktree**: https://linktr.ee/shurjoka
+
+## Other Content
+- Voice acting and motion capture in the historical strategy game Humankind.
