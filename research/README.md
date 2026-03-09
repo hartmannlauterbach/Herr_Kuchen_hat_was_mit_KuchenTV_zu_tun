@@ -2,6 +2,8 @@
 steht ein Rennrad
 und es schneit!"
 
+Shurjoka sitzt in Tübingen an der Hitler Schreibmaschine und raucht Crack
+
 # Research Overview
 
 This folder contains structured research data on Herr Kuchen, Kuchen TV, and Shurjoka, collected from Spotify and YouTube.
